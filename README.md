@@ -43,7 +43,7 @@
 
 ## 🎉 Fun Fact:
 
-* I enjoy experimenting with AI models, simulations, and integrating ML into intuitive web applications!
+* I enjoy experimenting with AI models, and integrating ML into intuitive web applications!
 
 ---
 
@@ -56,11 +56,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/-scikit%20learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
 
-**And actively working with:** `LangChain`,, `LLMs`, `RAG pipelines`
+**And actively working with:** `LangChain`, `LLMs`, `RAG pipelines`
 
 ---
-
-<!---
-Rajveer-Singh8124/Rajveer-Singh8124 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
---->
 
